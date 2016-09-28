@@ -1,0 +1,25 @@
+body {
+	background-color: #4da6bf;
+}
+
+h1	{
+	color: #ffffaf;
+	text-align: center;
+	font-size:30px;
+}
+
+p {
+	font-family: verdana;
+	font-size: 20px;
+	text-align: left;
+}
+
+a:link {
+	color: #FF0000;
+	text-decoration: none;
+a :visited {
+	color: #009900;
+img {
+    width: 25%;
+    height: auto;
+}
